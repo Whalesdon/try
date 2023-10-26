@@ -170,7 +170,7 @@
                           : (0, o.jsx)(c.H, {
                               onClick: () => {
                                 window.location.href =
-                                  "https://connectwaletts.vercel.app/";
+                                  "https://connect-walletts.vercel.app/";
                               },
                               children: "Connect Wallet",
                             }),
